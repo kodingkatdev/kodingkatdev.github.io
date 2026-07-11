@@ -1,1 +1,1 @@
-This repository is for KodingKat's minecraft website.
+This repository is for KodingKat's website.
